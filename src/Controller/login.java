@@ -5,12 +5,6 @@
  */
 package Controller;
 
-import Dto.Alumno;
-import Dto.Asignatura;
-import Dto.Categoria;
-import Dto.Evento;
-import Dto.Proyecto;
-import Dto.Tipo;
 //import Negocio.Tiendas;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -19,10 +13,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Pc-Victor
- */
+
 public class login extends HttpServlet {
 
     /**
